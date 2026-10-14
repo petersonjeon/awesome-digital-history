@@ -95,7 +95,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 - [ZLB](https://digital.zlb.de/) - Collections of the Berlin Central and State Library.
 
 ### Global
-
+- [2Day](https://2day.jpgdic.com) - Open historical chronology and wiki archive organizing daily events and notable figures across global timelines.
 - [Atlas of Mutual Heritage](https://www.atlasofmutualheritage.nl/) - Database with sources relating to VOC (Dutch East India Company) and WIC (Dutch West India Company).
 - [Bitsavers.org](http://bitsavers.trailing-edge.com/) - Computer code, reference manuals, and magazines.
 - [Castlemap](https://thecastlemap.com/) - Interactive world map and downloadable CC0 dataset of castles, fortresses, palaces, and ruins around the world.
